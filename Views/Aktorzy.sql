@@ -1,4 +1,4 @@
 CREATE VIEW Aktorzy
 AS
-SELECT * FROM Osoba
+SELECT * FROM Test
 GO
